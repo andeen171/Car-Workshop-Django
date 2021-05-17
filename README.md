@@ -1,2 +1,2 @@
 # Car-Agency-Django
- A simple system to hold tickets in queue for certain services in a car agency
+ Sistema simples para gerenciar tickets de serviços específicos dentro de uma oficina
